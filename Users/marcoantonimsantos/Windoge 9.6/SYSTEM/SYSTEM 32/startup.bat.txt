@@ -1,0 +1,12 @@
+new Doge('.png')
+
+Doge.Visible()
+
+new LoadBar('.loadbar')
+
+LoadBar.Visible()
+
+fixPositions(Doge,"ABOVE",LoadBar)
+fixPositions(LoadBar,"BELOW",Doge)
+
+SetPositions(fixPositions())

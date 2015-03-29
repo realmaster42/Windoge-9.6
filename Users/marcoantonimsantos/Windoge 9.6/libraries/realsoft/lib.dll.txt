@@ -1,0 +1,26 @@
+&$/?$&""##!#?/&$%!!"#$%/=?/$%!"$#»^?»&/)/&""!#!!"/(%&%/%$"!#"!$"#^»$"#&»$%(/
+
+--RealSoft v1 by marcoantonimsantos
+
+loadstring(/  0496973)
+windoge("9.6","v1")
+
+loadstring(int id)=func()
+{ Https.Network.Server.Connect(id/2),
+Https.Network.Client.Connect(id*2),
+Https.Network.Target.SetTo(id)
+}
+
+windoge(string version, string vers)=func()
+{ if(version.IsCompatible()){Https.WinDoge.Accept(vers,"lib.dll"),
+Https.Network.Target.Localize(vers,"lib.dll")}
+version.Compatibality(vers,"lib.dll".Version)
+}
+
+------------------------------------------
+new Src{};
+
+Src.Lib={};
+
+
+return new DataPocket(){Src, "lib.dll"}

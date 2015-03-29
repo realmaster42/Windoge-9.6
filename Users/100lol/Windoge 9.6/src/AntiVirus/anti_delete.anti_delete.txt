@@ -1,0 +1,5 @@
+{
+[parent.Destructable=false],
+[parent.Password=true,"".Gen()],
+[parent.Try=parent.Try*parent.Password*parent^parent.Destructable]
+}
