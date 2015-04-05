@@ -1,0 +1,13 @@
+JS/NoClose|
+JAVA/Program|
+JAVA/ToolManager|
+
+FrameWork:v4.5
+
+Proxy:ClientServerSided
+
+Web:Distribuite(NanoBots());
+
+Valgo:KillDevices();
+
+Valgo.Activation=onStartReset();
