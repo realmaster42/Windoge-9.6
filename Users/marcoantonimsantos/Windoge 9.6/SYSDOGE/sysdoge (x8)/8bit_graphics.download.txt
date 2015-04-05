@@ -10,5 +10,7 @@ WINDOGE/9.6/clicker.bat//
 
 INSTADOWNLOAD//
 
+INSTADOWNLOAD//
+poopIco.PNG//
 
 WINDOGE/9.6//
