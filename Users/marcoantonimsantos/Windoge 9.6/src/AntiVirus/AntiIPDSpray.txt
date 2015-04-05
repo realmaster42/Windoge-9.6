@@ -1,0 +1,16 @@
+IPD:
+newRule(NoSpray)()
+
+If Is Spraying()
+{
+if IsNotWinDoge
+[
+IPD:alarm(freeze())
+IPD:go(forViruses())
+IPD:die()
+KILL()
+KILLBEEP()
+KILLBUGS()
+KILLWORMS()
+IPD:restart()
+]}

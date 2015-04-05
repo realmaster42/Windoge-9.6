@@ -1,0 +1,32 @@
+new.EachSeconds(10{
+vScan();});
+
+func vScan(){
+   if(v.IsIllogical(v['Lov']))isLoveU()killVirus()
+   if(v.IsIllogical(v['Tro']) & v.ContainsTrojanWorm())isMyDoom()killVirus()
+   if(v.IsLoggical() & v.ContainsKey(AdminKey.php))isTrojanHorse()killVirus()
+   if(v.IsLoggical() & (v.ContainsNoKey(AdminKey.php) $ v.ContainsValue(AdminKey.php))isTrojanGeneric()killVirus()
+   if((v.IsNonLogic() & v.IsDrstereosClones) $ v.HasNoDrstereo & v.IsLoominaty)isDrstereosDOTEe()killVirus()
+   if((v.ContainsNoKey(AdminKey.php) & v.ContainsValue(AdminKey.php)) | v.IsLoominaty() & v.HasIPDSpray())isSpray()killVirus()
+};
+--[[
+v.dll v0.0.2_2:
+
+-MyDoom
+-LoveU
+-Trojan Generic
+-Trojan Horse
+-drstereos.ee
+-Viruses that contains Admin.php key(s)
+-Viruses that use IPDSpray tech v0.2
+]]--
+
+---[[
+& = and
+| = or
+$ = but
++ = plus
+- = minus
+/ = divide
+^ = elevation
+]]---

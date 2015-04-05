@@ -1,0 +1,6 @@
+IDP[{("9.6"),("IDP")},{("idp.trojan","system (x8)")}];
+
+
+Notepad[{(LOAD_BIN.SETUP),(LOAD_BIN.MINECRAFT)},{(LOAD_BIN.DOWNLOAD),(LOAD_BIN.NOTEPAD)}];
+
+WinDoge[("9.6")]
