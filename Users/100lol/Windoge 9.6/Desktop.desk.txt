@@ -2,8 +2,8 @@ Desktop.Show('Windoge9.6_Desktop'):
 
 Desktop.Size(1360,1360):
 
-Desktop.Picture('Windoge9.6_Doge.png'):
+Desktop.Picture('Windoge9.6_canvas_dark.png'):
 
-Desktop.DefaultGame('Windoge9.6_CookieClicker.dat'):
+Desktop.DefaultGame('Windoge9.6_Bean_Alien_clicker.gam'):
 
 Desktop.ShowDefaultStartup('')
